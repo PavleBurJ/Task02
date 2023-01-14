@@ -10,4 +10,3 @@ sh 'npm run sample-test'
          }
        }
      }
- }
