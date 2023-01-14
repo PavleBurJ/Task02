@@ -5,7 +5,7 @@ platforms:
     osVersion: Big Sur
     browserName: Safari
     browserVersion: 14.1
-parallelsPerPlatform: 10
+parallelsPerPlatform: 1
 browserstackLocal: true
 buildName: bstack-demo
 projectName: BrowserStack Sample
