@@ -1,5 +1,8 @@
-userName: pavleburjanadze_lCvGMs
-accessKey: sxix7s4NnZwyqiqFCejr
+username = process.env.BROWSERSTACK_USERNAME
+accessKey = process.env.BROWSERSTACK_ACCESS_KEY
+buildName = process.env.BROWSERSTACK_BUILD_NAME
+local = process.env.BROWSERSTACK_LOCAL
+localIdentifier = process.env.BROWSERSTACK_LOCAL_IDENTIFIER
 platforms:
   - os: OS X
     osVersion: Big Sur
