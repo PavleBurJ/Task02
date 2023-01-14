@@ -1,0 +1,13 @@
+"" 
+
+Sat Jan 14 2023 09:20:26:639 GMT-0800 (Pacific Standard Time) -- Binary semantic version is v8.8.5
+Sat Jan 14 2023 09:20:26:640 GMT-0800 (Pacific Standard Time) -- Setting output as extra verbose with request parsing
+Sat Jan 14 2023 09:20:27:2 GMT-0800 (Pacific Standard Time) -- [WARNING] Skipping initialisation of configuration console because: port already in use by another Binary
+Sat Jan 14 2023 09:20:29:995 GMT-0800 (Pacific Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sat Jan 14 2023 09:20:30:296 GMT-0800 (Pacific Standard Time) -- Connecting to BrowserStack using WebSocket protocol...
+Sat Jan 14 2023 09:20:30:296 GMT-0800 (Pacific Standard Time) -- Platform supports WebSocket connections.
+
+Sat Jan 14 2023 09:20:30:402 GMT-0800 (Pacific Standard Time) -- Press Ctrl-C to exit
+
+

@@ -1,0 +1,304 @@
+{"level":"info","message":"Reading configs from C:\\Users\\NoteBook\\Desktop\\step01\\cucumber-js-browserstack\\browserstack.yml","timestamp":"2023-01-14T16:17:33.991Z"}
+{"level":"info","message":"Local binary started successfully","timestamp":"2023-01-14T16:17:41.610Z"}
+{"level":"info","message":"Local binary stopped","timestamp":"2023-01-14T16:18:07.065Z"}
+{"level":"info","message":"Reading configs from C:\\Users\\NoteBook\\Desktop\\step01\\cucumber-js-browserstack\\browserstack.yml","timestamp":"2023-01-14T16:18:52.296Z"}
+{"level":"info","message":"Local binary started successfully","timestamp":"2023-01-14T16:18:58.372Z"}
+{"level":"info","message":"Local binary stopped","timestamp":"2023-01-14T16:19:18.023Z"}
+{"level":"info","message":"Reading configs from C:\\Users\\NoteBook\\Desktop\\step01\\cucumber-js-browserstack\\browserstack.yml","timestamp":"2023-01-14T16:21:00.124Z"}
+{"level":"info","message":"Local binary started successfully","timestamp":"2023-01-14T16:21:05.703Z"}
+{"level":"info","message":"Local binary stopped","timestamp":"2023-01-14T16:21:25.146Z"}
+{"level":"info","message":"Reading configs from C:\\Users\\NoteBook\\Desktop\\step01\\cucumber-js-browserstack\\browserstack.yml","timestamp":"2023-01-14T16:22:09.444Z"}
+{"level":"info","message":"Local binary started successfully","timestamp":"2023-01-14T16:22:14.785Z"}
+{"level":"info","message":"Local binary stopped","timestamp":"2023-01-14T16:22:31.777Z"}
+{"level":"info","message":"Reading configs from C:\\Users\\NoteBook\\Desktop\\step01\\cucumber-js-browserstack\\browserstack.yml","timestamp":"2023-01-14T16:23:12.128Z"}
+{"level":"info","message":"Local binary started successfully","timestamp":"2023-01-14T16:23:17.268Z"}
+{"level":"info","message":"Local binary stopped","timestamp":"2023-01-14T16:23:34.582Z"}
+{"level":"info","message":"Reading configs from C:\\Users\\NoteBook\\Desktop\\step01\\cucumber-js-browserstack\\browserstack.yml","timestamp":"2023-01-14T16:28:12.684Z"}
+{"level":"info","message":"Local binary started successfully","timestamp":"2023-01-14T16:28:18.655Z"}
+{"level":"info","message":"Local binary stopped","timestamp":"2023-01-14T16:28:40.207Z"}
+2023-01-14 08:50:29 - [32minfo[39m: Creating configuration file...
+2023-01-14 08:50:29 - [32minfo[39m: Setup completed
+2023-01-14 08:54:53 - [32minfo[39m: Reading configs from C:\Users\NoteBook\Desktop\step01\cucumber-js-browserstack\browserstack.yml
+2023-01-14 08:54:57 - [32minfo[39m: Local binary started successfully
+2023-01-14 08:54:59 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:54:59 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:55:21 - [32minfo[39m: Local binary stopped
+2023-01-14 08:58:24 - [32minfo[39m: Reading configs from C:\Users\NoteBook\Desktop\step01\cucumber-js-browserstack\browserstack.yml
+2023-01-14 08:58:28 - [32minfo[39m: Local binary started successfully
+2023-01-14 08:58:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:58:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 08:59:01 - [32minfo[39m: Local binary stopped
+2023-01-14 09:02:44 - [32minfo[39m: Reading configs from C:\Users\NoteBook\Desktop\step01\cucumber-js-browserstack\browserstack.yml
+2023-01-14 09:02:48 - [32minfo[39m: Local binary started successfully
+2023-01-14 09:02:50 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:02:50 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:11 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:11 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:12 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:13 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:26 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:48 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:52 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:51 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:52 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:01 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:51 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:57 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:57 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:54 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:55 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:52 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:57 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:56 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:55 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:58 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:55 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:00 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:51 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:52 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:57 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:52 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:02 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:57 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:56 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:04:56 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:04 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:04 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:06 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:05 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:04 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:07 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:08 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:08 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:09 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:09 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:05:13 - [32minfo[39m: Local binary stopped
+2023-01-14 09:07:57 - [32minfo[39m: Reading configs from C:\Users\NoteBook\Desktop\step01\cucumber-js-browserstack\browserstack.yml
+2023-01-14 09:08:02 - [32minfo[39m: Local binary started successfully
+2023-01-14 09:08:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:08:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:08:26 - [32minfo[39m: Local binary stopped
+2023-01-14 09:11:53 - [32minfo[39m: Reading configs from C:\Users\NoteBook\Desktop\step01\cucumber-js-browserstack\browserstack.yml
+2023-01-14 09:11:57 - [32minfo[39m: Local binary started successfully
+2023-01-14 09:11:59 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:11:59 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:24 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:28 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:28 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:42 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:41 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:43 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:42 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:44 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:44 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:44 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:44 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:43 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:44 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:46 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:46 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:48 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:48 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:52 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:46 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:46 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:13:00 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:13:00 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:55 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:48 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:56 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:13:09 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:13:05 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:58 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:13:11 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:48 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:46 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:13:07 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:13:13 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:13:17 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:46 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:12:50 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:29 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:13:41 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:34 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:30 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:32 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:58 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:42 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:43 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:55 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:01 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:13:12 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:48 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:44 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:59 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:55 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:54 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:00 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:39 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:55 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:00 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:40 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:59 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:16 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:00 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:56 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:12 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:14:46 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:10 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:22 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:17 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:08 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:16 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:32 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:52 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:50 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:07 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:00 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:58 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:27 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:34 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:28 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:27 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:18 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:23 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:28 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:07 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:29 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:48 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:09 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:44 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:10 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:34 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:42 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:32 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:40 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:39 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:40 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:22 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:40 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:33 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:15:59 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:58 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:22 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:22 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:43 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:33 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:49 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:18 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:16:34 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:44 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:34 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:08 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:41 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:32 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:32 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:28 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:08 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:52 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:24 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:48 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:50 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:07 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:17:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:46 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:45 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:52 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:06 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:26 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:43 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:42 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:10 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:42 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:24 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:17 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:53 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:55 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:39 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:15 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:17 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:04 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:04 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:32 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:03 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:33 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:05 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:25 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:18:50 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:08 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:13 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:17 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:15 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:14 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:17 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:16 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:27 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:19:34 - [32minfo[39m: Local binary stopped
+2023-01-14 09:20:25 - [32minfo[39m: Reading configs from C:\Users\NoteBook\Desktop\step01\cucumber-js-browserstack\browserstack.yml
+2023-01-14 09:20:30 - [32minfo[39m: Local binary started successfully
+2023-01-14 09:20:32 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:20:31 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:20:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:20:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:20:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:20:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:20:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:20:37 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:20:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:20:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:20:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:20:38 - [32minfo[39m: Configuring to run tests on BrowserStack
+2023-01-14 09:21:00 - [32minfo[39m: Local binary stopped
