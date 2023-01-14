@@ -1,0 +1,18 @@
+userName: pavleburjanadze_lCvGMs
+accessKey: sxix7s4NnZwyqiqFCejr
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 103.0
+  - os: OS X
+    osVersion: Big Sur
+    browserName: Safari
+    browserVersion: 14.1
+parallelsPerPlatform: 10
+browserstackLocal: true
+buildName: bstack-demo
+projectName: BrowserStack Sample
+debug: true
+networkLogs: true
+consoleLogs: info
