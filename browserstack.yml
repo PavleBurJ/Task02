@@ -8,7 +8,6 @@ platforms:
     browserName: Safari
     browserVersion: 14.1
 parallelsPerPlatform: 10
-browserstackLocal: false
 buildName: bstack-demo
 projectName: BrowserStack Sample
 debug: true
