@@ -20,7 +20,7 @@ stages {
 
                 // For Windows-based systems, add the following commands in the given console to download the binary, run it, and stop its execution after the test has been executed.
                 sh 'wget "https://www.browserstack.com/browserstack-local/BrowserStackLocal-win32.zip"'
-                sh 'powershell.exe D:\BrowserStackLocal.exe'
+                sh 'powershell.exe D:/BrowserStackLocal.exe'
                 sh 'npm run sample-test'
                 sh './BrowserStackLocal --key $BROWSERSTACK_ACCESS_KEY --daemon stop'
             }
