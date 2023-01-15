@@ -1,5 +1,6 @@
-Feature: BrowserStack Local Testing
+Feature: Browserstack test
 
-  Scenario: Can check tunnel working
-    When I open dashboard
-    Then I should see "BrowserStack Local"
+  Scenario: Can add a product to the cart
+    Given I visit bstackdemo website
+    When I add a product to the cart
+    Then I should see the same product in the cart section
