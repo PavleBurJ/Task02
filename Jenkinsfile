@@ -7,7 +7,7 @@ stages {
                 // For macOS-based systems, add the following commands in the given console to download the binary, run it, and stop its execution after the test has been executed.
                 sh 'wget "https://www.browserstack.com/browserstack-local/BrowserStackLocal-darwin-x64.zip"'
                 sh 'unzip BrowserStackLocal-darwin-x64.zip'
-                sh './BrowserStackLocal --key $BROWSERSTACK_ACCESS_KEY --daemon start --file sample.yml'
+                sh './BrowserStackLocal --key $BROWSERSTACK_ACCESS_KEY --daemon start'
                 sh 'npm run sample-test'
                 sh './BrowserStackLocal --key $BROWSERSTACK_ACCESS_KEY --daemon stop'
 
