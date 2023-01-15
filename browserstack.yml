@@ -1,4 +1,3 @@
-BROWSERSTACK_LOCAL=true
 platforms:
   - os: Windows
     osVersion: 11
@@ -9,7 +8,7 @@ platforms:
     browserName: Safari
     browserVersion: 14.1
 parallelsPerPlatform: 10
-browserstackLocal: true
+browserstackLocal: false
 buildName: bstack-demo
 projectName: BrowserStack Sample
 debug: true
