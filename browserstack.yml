@@ -1,3 +1,4 @@
+BROWSERSTACK_LOCAL=true
 platforms:
   - os: Windows
     osVersion: 11
